@@ -6,8 +6,10 @@
 
 📖 Project 3			"Working...✍"
 
-📘 Project 4			"Continued...⏳"
+📘 Project 4			"Coming soon...⏳"
 
-📙 Project 5			"Continued...⏳"
-📒 Project 6			"Continued...⏳"
-📔 Project 7			"Continued...⏳"
+📙 Project 5			"Coming soon...⏳"
+
+📒 Project 6			"Coming soon...⏳"
+
+📔 Project 7			"Coming soon...⏳"
