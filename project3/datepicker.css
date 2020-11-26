@@ -1,0 +1,57 @@
+@keyframes appear_animation {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+}
+body{
+  font-family: cursive;
+  text-align: center;
+  background-image: url("wall.jpg");
+  background-size: cover;
+  font-color: #000;
+}
+
+.esh{
+  margin-top: 100px;
+  float: left;
+  padding-left: 20px;
+}
+.shee{
+  margin-top: 100px;
+  float: right;
+  padding-right: 20px;
+  opacity: 0.5;
+}
+#datepicker1{
+  margin-top: 200px;
+  padding-left: 0px;
+  float: left;
+  background: rgba(255, 255, 255, 0.33);
+  border-radius: 5%;
+}
+#datepicker2{
+  margin-top: 200px;
+  float: right;
+  background: rgba(255, 255, 255, 0.33);
+  border-radius: 5%;
+}
+#CurMonth{
+  border-radius: 15%;
+  cursor: pointer;
+}
+#OtherMonth{
+  border-radius: 15%;
+}
+
+#LeftArrow,#RightArrow{
+  cursor: pointer;
+}
+#datepicker1 tr:nth-child(1) {
+  background: rgba(255, 255, 255, 0.33);
+}
+#datepicker2 tr:nth-child(1) {
+  background: rgba(255, 255, 255, 0.33);
+}
