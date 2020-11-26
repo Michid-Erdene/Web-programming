@@ -4,7 +4,7 @@
 
 📗 Project 2			// ✅
 
-📖 Project 3			"Working...✍"
+📖 Project 3			"Check✍"
 
 📘 Project 4			"Coming soon...⏳"
 
