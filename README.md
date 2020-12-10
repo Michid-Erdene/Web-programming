@@ -4,9 +4,9 @@
 
 📗 Project 2			// ✅
 
-📖 Project 3			"Check✍"
+📖 Project 3			"/Uzuuleh/✍ "
 
-📘 Project 4			"Coming soon...⏳"
+📘 Project 4			"/Uzuuleh/✍"
 
 📙 Project 5			"Coming soon...⏳"
 
