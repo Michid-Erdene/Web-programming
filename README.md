@@ -8,7 +8,7 @@
 
 📖 Project 4			"/Uzuuleh/✍"
 
-📙 Project 5			"Coming soon...⏳"
+📙 Project 5			"/Uzuuleh/✍"
 
 📘 Project 6			"Coming soon...⏳"
 
