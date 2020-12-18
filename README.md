@@ -12,4 +12,6 @@
 
 📘 Project 6			"Coming soon...⏳"
 
-📒 Project 7			"Coming soon...⏳"
+Mern exercise     "/Uzuuleh/✍ "
+
+Mern project      "/Uzuuleh/✍ "
